@@ -17,7 +17,7 @@ I would highly recommend that before the hack night you have some kind of toolch
 
 
 1️⃣ `Python`<br>
-2️⃣ `nltk`
+2️⃣ `nltk`<br>
 3️⃣ `Pandas`<br>
 4️⃣ `NumPy`<br>
 5️⃣ `Matplotlib`<br>
